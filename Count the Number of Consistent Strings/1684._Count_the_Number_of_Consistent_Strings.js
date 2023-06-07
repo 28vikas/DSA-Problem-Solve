@@ -1,6 +1,8 @@
 
 
-let allowed = "ab", words = ["ad","bd","aaab","baa","badab"]
+// let allowed = "ab", words = ["ad","bd","aaab","baa","badab"]
+
+let allowed = "abc", words = ["a","b","c","ab","ac","bc","abc"];''
 
 function xyz(allowed){
     let result = [];
